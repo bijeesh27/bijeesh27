@@ -1,86 +1,98 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&repeat=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Bijeesh;Full+Stack+Developer;MERN+Stack+Developer;Web+Developer" alt="Typing SVG" />
-</h1>
-
-<!-- Animated wave -->
 <div align="center">
-  <img height="120px" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/wave.gif" />
-</div>
+  <!-- Header Banner with Animation -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=MERN%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20modern%20web%20applications%20with%20passion&descAlignY=50&descAlign=50" />
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
-  Languages and Tools
-</h2>
+  <!-- Introduction with Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Bijeesh;MERN+Stack+Developer;Full+Stack+Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" />
+  </a>
 
-<div align="center">
-  <!-- Tech Stack with Animation -->
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" style="margin-right: 10px; animation: bounce 1s infinite;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin-right: 10px; animation: bounce 1s infinite 0.1s;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45" style="margin-right: 10px; animation: bounce 1s infinite 0.2s;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" style="margin-right: 10px; animation: bounce 1s infinite 0.3s;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45" style="margin-right: 10px; animation: bounce 1s infinite 0.4s;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" style="margin-right: 10px; animation: bounce 1s infinite 0.5s;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45" style="margin-right: 10px; animation: bounce 1s infinite 0.6s;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45" style="margin-right: 10px; animation: bounce 1s infinite 0.7s;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="45" height="45" style="margin-right: 10px; animation: bounce 1s infinite 0.8s;"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" style="animation: bounce 1s infinite 0.9s;"/>
+  <!-- About Me Section -->
+  <h2>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlmNDBjOGM3NzFhYTQzZTBlZGFiZDliYmM4M2RiYjI0MjVjNTVlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jTNG3RF6EwbkpD4LZx/giphy.gif" width="30px" /> 
+    About Me
+  </h2>
+  
+  <p align="center">
+    🚀 Specialized in MongoDB, Express.js, React.js, and Node.js<br>
+    💻 Creating responsive and scalable web applications<br>
+    🌱 Continuously learning and staying updated with latest tech trends<br>
+    ⚡ Passionate about clean code and best practices
   </p>
-</div>
 
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-</style>
+  <!-- MERN Stack Skills -->
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+    Core Skills
+  </h2>
 
-<!-- Animated Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
+  <!-- Primary Stack -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=4" />
+  </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijeesh27&theme=tokyonight&hide_border=true" alt="streak stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=bijeesh27&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijeesh27&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
-</div>
+  <!-- Additional Technologies -->
+  <h3>Technologies & Tools</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,vscode&theme=dark&perline=6" />
+  </p>
 
-<!-- Trophy Section -->
-<h2 align="center">🏆 GitHub Profile Trophy</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bijeesh27&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
-</div>
+  <!-- GitHub Stats with Animations -->
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+    GitHub Analytics
+  </h2>
 
-<!-- Connect Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
-</h2>
+  <!-- Stats Cards -->
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bijeesh27&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bijeesh27&layout=compact&langs_count=8&theme=react"/>
+    </a>
+  </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/bijeesh-biju-b5a803318/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bijeesh27&theme=react&hide_border=true" />
   </a>
-  <a href="https://www.instagram.com/_bij_esh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+
+  <!-- Contribution Streak -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijeesh27&theme=react" alt="streak-stats" />
+  </p>
+
+  <!-- Achievements -->
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 
+    GitHub Achievements
+  </h2>
+  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=bijeesh27&theme=algolia&column=7&margin-w=15&margin-h=15" />
+  </p>
+
+  <!-- Connect Section -->
+  <h2>
+    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50px">
+    Let's Connect
+  </h2>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/bijeesh-biju-b5a803318/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/_bij_esh/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </div>
+
+  <!-- Profile Views Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=bijeesh27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </p>
+
+  <!-- Footer -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
 </div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bijeesh27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/bijeesh27/bijeesh27/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
-<!-- Footer Wave -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bijeesh27/bijeesh27/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bijeesh27/bijeesh27/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bijeesh27/bijeesh27/output/github-contribution-grid-snake.svg">
-</picture>
