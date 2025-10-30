@@ -27,7 +27,7 @@
   <!-- Additional Skills -->
   <h3>Technologies & Tools</h3>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,psql&theme=dark&perline=8" />
   </p>
 
   <!-- GitHub Analytics -->
