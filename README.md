@@ -32,7 +32,7 @@ I am a **Results-Driven MERN Stack Developer** focused on engineering responsive
   
 | **Core Stack** | **Languages & Tools** |
 | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,psql,docker,aws&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,aws&theme=dark" /> |
 
 </div>
 
