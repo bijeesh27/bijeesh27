@@ -38,30 +38,11 @@ I am a **Results-Driven MERN Stack Developer** focused on engineering responsive
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=bijeesh27&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijeesh27&layout=compact&langs_count=6&theme=transparent&hide_border=true" height="150" alt="languages graph" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bijeesh27&theme=transparent&hide_border=true" alt="contribution streak" />
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bijeesh27&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" />
-</div>
-
----
 
 ### 🎯 Professional Focus
 
 * **Scalability:** Designing systems that handle growth effortlessly using Microservices and Node.js.
 * **Performance:** Implementing Server-Side Rendering (SSR) and optimizing database queries.
-* **Quality Assurance:** Adhering to CI/CD pipelines and TDD (Test Driven Development) methodologies.
-* **Collaboration:** Experienced in Agile environments and Git-based workflows.
 
 <div align="center">
   <br>
